@@ -1,0 +1,68 @@
+PODS:
+  - Alamofire (5.4.4)
+  - AlignedCollectionViewFlowLayout (1.1.2)
+  - CircleMenu (4.1.0)
+  - FloatingPanel (2.5.0)
+  - Hashtags (0.1.3):
+    - AlignedCollectionViewFlowLayout (~> 1.1.2)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - RxCocoa (6.2.0):
+    - RxRelay (= 6.2.0)
+    - RxSwift (= 6.2.0)
+  - RxRelay (6.2.0):
+    - RxSwift (= 6.2.0)
+  - RxSwift (6.2.0)
+  - SimpleCheckbox (2.1.0)
+  - SkeletonView (1.26.0)
+  - SnapKit (5.0.1)
+  - Then (2.7.0)
+
+DEPENDENCIES:
+  - CircleMenu
+  - FloatingPanel
+  - Hashtags
+  - Moya (~> 15.0)
+  - RxCocoa (= 6.2.0)
+  - RxSwift (= 6.2.0)
+  - SimpleCheckbox
+  - SkeletonView
+  - SnapKit (~> 5.0.0)
+  - Then
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - AlignedCollectionViewFlowLayout
+    - CircleMenu
+    - FloatingPanel
+    - Hashtags
+    - Moya
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SimpleCheckbox
+    - SkeletonView
+    - SnapKit
+    - Then
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  AlignedCollectionViewFlowLayout: ee2ef451e741ec08f8e0967d828001e2f051c20a
+  CircleMenu: a66095199a5e26f19acbb212f077010257767fe5
+  FloatingPanel: ddb1c8cbbacd164cfee651c449febe867a28e2cb
+  Hashtags: 6e2fbcb3ec0cae07403aab96985a9497927a5962
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  RxCocoa: 4baf94bb35f2c0ab31bc0cb9f1900155f646ba42
+  RxRelay: e72dbfd157807478401ef1982e1c61c945c94b2f
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+  SimpleCheckbox: ddcd433ab8c3a8f57300bebda13151a8f302c7f9
+  SkeletonView: 6b62a8ddbc64abb113ea3243e4a9979e5750f147
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  Then: acfe0be7e98221c6204e12f8161459606d5d822d
+
+PODFILE CHECKSUM: 8183c2f8dd5c4370d279b1177dc158058c83db58
+
+COCOAPODS: 1.11.2
